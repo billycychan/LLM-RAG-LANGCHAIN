@@ -1,5 +1,5 @@
 
-# Local RAG LnagChain
+# Local RAG LangChain
 
 This repository contains a Jupyter Notebook demonstrating a local Retrieval-Augmented Generation (RAG) pipeline. 
 The notebook shows how to load documents, embed them into a vector store, and perform similarity-based retrieval. 
